@@ -1,0 +1,51 @@
+[[[[[[[[[ BASIC MODE ]]]]]]]]]
+>>>>>>>>>>>>>>> dpmin <<<<<<<<<<<<
+Solution Found: 
+Total Value: 150
+Time Usage: 0.022000 min-seconds in tot
+
+>>>>>>>>>>>>>>> dp <<<<<<<<<<<<
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.024000 mini-seconds in tot
+
+>>>>>>>>>>>>>>> dfs <<<<<<<<<<<<
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.004000 min-seconds in tot
+
+>>>>>>>>>>>>>>> dfsb <<<<<<<<<<<<
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.003000 min-seconds in tot
+
+>>>>>>>>>>>>>>> bfs <<<<<<<<<<<<
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.012000 mini-seconds in tot
+tot_while: 85
+
+>>>>>>>>>>>>>>> bfsq <<<<<<<<<<<<
+bound: 100
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.038000 mini-seconds in tot
+tot_while: 57
+cut_down: 9
+15.789474%
+

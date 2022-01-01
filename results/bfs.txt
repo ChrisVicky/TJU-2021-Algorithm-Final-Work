@@ -1,0 +1,19 @@
+./bfsq.out < ./data/6.in
+bound: 100
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.040000 mini-seconds in tot
+tot_while: 57
+cut_down: 9
+15.789474%
+./bfs.out < ./data/6.in
+Solution Found: 
+Total Used Capacity: 190
+Total Value: 150
+Choice of Item:
+1 2 5 
+Time Usage: 0.010000 mini-seconds in tot
+tot_while: 85
